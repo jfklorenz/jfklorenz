@@ -2,6 +2,7 @@
 
 I am a student at [Goethe University](https://www.goethe-university-frankfurt.de/ "Link"), having finished Bachelor of Science degrees in Mathematics and Computer Science and currently 
 finishing my Master's degree in Computer Science. My academic interests are [combinatorial optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization "Wikipedia"), [stochastic](https://en.wikipedia.org/wiki/Stochastic "Wikipedia"), [complexity classes](https://en.wikipedia.org/wiki/Complexity_class "Wikipedia") and [runtime complexity](https://en.wikipedia.org/wiki/Time_complexity "Wikipedia"). 
+
 In my spare time I am an avid card player, specializing in the games [Contract-Bridge](https://en.wikipedia.org/wiki/Contract_bridge "Wikipedia") and [Poker](https://en.wikipedia.org/wiki/Poker "Wikipedia").
 
 You can reach me via:
