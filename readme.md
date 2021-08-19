@@ -6,7 +6,7 @@ In my spare time I am an avid card player, specializing in the games [Contract-B
 
 You can reach me via:
 - E-Mail: [![Gmail Badge](https://img.shields.io/badge/-jfk.lorenz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jfk.lorenz@gmail.com)](mailto:jfk.lorenz@gmail.com)
-- Twitter: [![Twitter](https://img.shields.io/twitter/follow/:DevJulianLorenz.svg?style=social&label=@:JulianLorenz8)](https://twitter.com/:DevJulianLorenz)
+- Twitter: [![Twitter](https://img.shields.io/twitter/follow/:DevJulianLorenz.svg?style=social&label=@:DevJulianLorenz)](https://twitter.com/:DevJulianLorenz)
 
 Have a great day my friend!
 
