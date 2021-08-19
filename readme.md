@@ -48,3 +48,4 @@ Have a great day my friend!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfklorenz)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jfklorenz.jfklorenz)
+
