@@ -1,15 +1,15 @@
-### Hi there, welcome to my profile! 
+### Hi there, welcome to my profile!
 
-I am a student at [Goethe University](https://www.goethe-university-frankfurt.de/ "Link"), having finished Bachelor of Science degrees in Mathematics and Computer Science and currently 
-finishing my Master's degree in Computer Science. My academic interests are [combinatorial optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization "Wikipedia"), [stochastic](https://en.wikipedia.org/wiki/Stochastic "Wikipedia"), [complexity classes](https://en.wikipedia.org/wiki/Complexity_class "Wikipedia") and [runtime complexity](https://en.wikipedia.org/wiki/Time_complexity "Wikipedia"). 
+I am a student at [Goethe University](https://www.goethe-university-frankfurt.de/ "Link"), having finished Bachelor of Science degrees in Mathematics and Computer Science and currently
+finishing my Master's degree in Computer Science. My academic interests are [combinatorial optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization "Wikipedia"), [stochastic](https://en.wikipedia.org/wiki/Stochastic "Wikipedia"), [complexity classes](https://en.wikipedia.org/wiki/Complexity_class "Wikipedia") and [runtime complexity](https://en.wikipedia.org/wiki/Time_complexity "Wikipedia").
 
 In my spare time I am an avid card player, specializing in the games [Contract-Bridge](https://en.wikipedia.org/wiki/Contract_bridge "Wikipedia") and [Poker](https://en.wikipedia.org/wiki/Poker "Wikipedia").
 
-You can reach me via:
-- E-Mail: [![Gmail Badge](https://img.shields.io/badge/-jfk.lorenz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jfk.lorenz@gmail.com)](mailto:jfk.lorenz@gmail.com)
-- Twitter: [![Twitter](https://img.shields.io/twitter/follow/:DevJulianLorenz.svg?style=social&label=@:DevJulianLorenz)](https://twitter.com/:DevJulianLorenz)
+Special thanks goes to:
+- [yeldiRium (Hannes Leutloff)](https://github.com/yeldiRium "Github Page")
+- [strangedev (Noah Hummels)](https://github.com/strangedev "Github Page")
 
-Have a great day my friend!
+Have a great day, friend!
 
 ---
 
@@ -38,7 +38,7 @@ Have a great day my friend!
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ---
@@ -48,4 +48,3 @@ Have a great day my friend!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfklorenz)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jfklorenz.jfklorenz)
-
